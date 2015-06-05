@@ -5,6 +5,7 @@ Running patrickke/docker-ubuntu
 To run a container from the image you created earlier with the trusty tag binding it to port 2222 in all interfaces, execute:
 
 docker run -d -p 0.0.0.0:2222:22 patrickke/docker-ubuntu
+
 The first time that you run your container, a random password will be generated for user root. To get the password, check the logs of the container by running:
 
 docker logs <CONTAINER_ID>
