@@ -1,0 +1,11 @@
+deb [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty main restricted universe multiverse
+deb [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty-security main restricted universe multiverse
+deb [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty-updates main restricted universe multiverse
+deb [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty-proposed main restricted universe multiverse
+deb [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty-backports main restricted universe multiverse
+
+deb-src [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty main restricted universe multiverse
+deb-src [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty-security main restricted universe multiverse
+deb-src [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty-updates main restricted universe multiverse
+deb-src [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty-proposed main restricted universe multiverse
+deb-src [arch=amd64] http://mirrors.tcwyun.com/ubuntu trusty-backports main restricted universe multiverse
